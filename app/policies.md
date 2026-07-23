@@ -82,3 +82,4 @@ escalated, never invented.
 - Battery safety incidents (smoke, heat, swelling) — advise moving the battery somewhere
   safe away from heat/flammables and flag for urgent human follow-up.
 - Legal threats, injury claims, or anything requiring a judgment call.
+
