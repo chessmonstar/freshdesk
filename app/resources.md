@@ -1,105 +1,106 @@
 # Luna Cycle — Resource Link Repository
 
-Verified links Luna agents have shared with customers (mined from thousands of real
-replies). The drafter uses these to point SUPPORT customers to a troubleshooting guide,
-manual, or repair video whenever one fits. Only links in this file (or in the retrieved
-past cases) may be used — never invent a URL.
+Verified links Luna agents have shared (mined from thousands of real replies), indexed by
+the SPECIFIC symptom. The drafter must match the customer's exact problem to the most
+specific entry here — prefer a symptom-specific section link (the forum `#post` anchors
+jump to the exact section) or a targeted repair video over a broad top-level guide.
+Only links in this file (or in the retrieved past cases) may be used — never invent a URL.
 
-Video labels are inferred from how agents used them; double-check a couple and correct any
-that are mislabeled. Repair/maintenance channel: https://www.youtube.com/@lunacyclerepair
+Video labels are inferred from how agents used them; correct any that are mislabeled.
+Repair/maintenance channel: https://www.youtube.com/@lunacyclerepair
 
 ---
 
-## Troubleshooting guides (electricbike.com forum)
+## SYMPTOM-SPECIFIC LINKS (use the closest match to the customer's problem)
 
-- Talaria XXX / XXX Pro — troubleshooting (error codes, WAIT, no-power, harness; steps 1–11):
+### Won't charge / charging problems
+- Remove the battery to charge it out of the frame (video): https://www.youtube.com/watch?v=tuB-QJiRC3o
+- Luna charger (Mini & Advanced) — how to adjust / check: https://electricbike.com/forum/forum/knowledge-base/chargers/38871-how-to-adjust-the-luna-charger-mini-and-advanced
+- Talaria XXX / XXX Pro — troubleshooting steps 1–11: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/165567-talaria-xxx-troubleshooting#post165571
+- Talaria MX3 / MX4 / MX5 — troubleshooting steps: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/161797-talaria-mx5-mx4-mx3-troubleshooting#post162354
+
+### Error code / WAIT / bike won't run
+- Talaria XXX — general steps 1–11 (start here): https://electricbike.com/forum/knowledge-base/talaria-dirtbike/165567-talaria-xxx-troubleshooting#post165571
+- Talaria XXX — motor doesn't run / WAIT section: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/165567-talaria-xxx-troubleshooting#post165580
+- Talaria XXX — error code 37 (simple fix): https://electricbike.com/forum/knowledge-base/talaria-dirtbike/165567-talaria-xxx-troubleshooting#post165577
+- Talaria MX3 / MX4 / MX5 — troubleshooting steps: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/161797-talaria-mx5-mx4-mx3-troubleshooting#post162354
+- Luna M600 mid-drive (X2 / X2.5 / Eclipse) — motor/power troubleshooting: https://electricbike.com/forum/forum/knowledge-base/motors-and-kits/m600/134392-m600-troubleshooting#post136149
+- First-look diagnostic (ask customer to watch first ~3 min): https://www.youtube.com/watch?v=PsJaToey2Tw
+
+### Throttle not responding
+- Talaria XXX — troubleshooting steps: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/165567-talaria-xxx-troubleshooting#post165571
+- Talaria MX — troubleshooting steps: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/161797-talaria-mx5-mx4-mx3-troubleshooting#post162354
+- Diagnostic video: https://www.youtube.com/watch?v=PsJaToey2Tw
+
+### Brakes — squealing / weak / need bleeding
+- Talaria mechanical guide (brake adjustment & squeal fix): https://electricbike.com/forum/knowledge-base/talaria-dirtbike/162744-talaria-mechanical-troubleshooting-repairs-adjustments-tips-tricks?p=164624#post164624
+- Talaria XXX — brake bleed section: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/165567-talaria-xxx-troubleshooting?p=165585#post165585
+- Bent rotor — straighten it (video): https://youtu.be/d0u1XwAUrqg
+- Brake service (video): https://www.youtube.com/watch?v=PtHtVPWm3HE
+
+### Fork / suspension
+- Fork lubrication (video): https://youtu.be/wR7HcDe5WwI
+
+### Wiring harness / connector / intermittent power
+- First-look diagnostic (watch first ~3 min): https://www.youtube.com/watch?v=PsJaToey2Tw
+- Main harness — trace, repair & replace (video): https://www.youtube.com/watch?v=qyUFHGV1VT8
+- Display/harness pin check (E00-type) (video): https://www.youtube.com/watch?v=LlRF5APGWfs
+- Battery/breaker connector & orange wire inspect (video): https://youtu.be/xekcnAGonE4?t=204
+
+### Battery / BMS / range
+- Remove the battery (video): https://www.youtube.com/watch?v=tuB-QJiRC3o
+- Talaria XXX troubleshooting steps: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/165567-talaria-xxx-troubleshooting#post165571
+- Luna M600 (X2/X2.5/Eclipse) battery & power: https://electricbike.com/forum/forum/knowledge-base/motors-and-kits/m600/134392-m600-troubleshooting?p=134413#post134413
+
+### Display / screen / speedometer
+- Display/harness pin check (video): https://www.youtube.com/watch?v=LlRF5APGWfs
+- Change display settings / gear ratio (stock 17" = 1:6.9) (video): https://www.youtube.com/watch?v=Aj07S2gOdUk
+- Talaria XXX troubleshooting steps: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/165567-talaria-xxx-troubleshooting#post165571
+
+### Tire / tube / flat / slow leak
+- Valve core / valve stem check (short video): https://www.youtube.com/shorts/EwGdgyq6Lsw
+- Chain extension kit (for 17" wheel/sprocket): https://lunacycle.com/chain-extension-kit-for-larger-sprockets/
+
+### Belt / torque converter / clutch (Luna Fixed & belt-drive)
+- Belt connector & orange wire inspect (video): https://youtu.be/xekcnAGonE4?t=204
+- Loose / worn belt — replacement (video): https://www.youtube.com/watch?v=iSHHaDe92l4
+- Belt tension (loosens over time) (video): https://www.youtube.com/watch?v=ptgx2mlu-uc
+
+### Motor removal / bogging / no power (Luna mid-drive)
+- Luna M600 troubleshooting (start here): https://electricbike.com/forum/forum/knowledge-base/motors-and-kits/m600/134392-m600-troubleshooting#post136149
+- Encoder calibration / motor "MATCH" (bogging) (video): https://www.youtube.com/watch?v=iq-T2ixbrTM
+
+### Key fob / RFID / ignition
+- NFC / RFID control-box install & replacement (video): https://youtu.be/a_M601mtxDY
+- Program / pair the RFID key fob to the bike (video): https://youtu.be/817nvYsZsyM
+
+### Assembly / unboxing
+- Talaria MX unboxing/assembly (video): https://www.youtube.com/watch?v=Dt21syYL928
+- Talaria MX5 Pro / MX4R / MX3 manual (links assembly videos): https://electricbike.com/forum/knowledge-base/talaria-dirtbike/161444-talaria-mx5-pro-mx4r-and-mx3-manual
+- Talaria XXX / XXX Pro manual: https://electricbike.com/forum/knowledge-base/talaria-dirtbike/164135-talaria-xxx-manual
+
+---
+
+## GENERAL FALLBACKS (only if no specific match above fits the symptom)
+
+- Talaria XXX / XXX Pro — full troubleshooting thread:
   https://electricbike.com/forum/knowledge-base/talaria-dirtbike/165567-talaria-xxx-troubleshooting
-- Talaria MX3 / MX4 / MX5 — troubleshooting:
+- Talaria MX3 / MX4 / MX5 — full troubleshooting thread:
   https://electricbike.com/forum/knowledge-base/talaria-dirtbike/161797-talaria-mx5-mx4-mx3-troubleshooting
-- Talaria mechanical — brakes squealing, adjustments, tips/tricks:
-  https://electricbike.com/forum/knowledge-base/talaria-dirtbike/162744-talaria-mechanical-troubleshooting-repairs-adjustments-tips-tricks
-- Luna M600 mid-drive motor (X2 / X2.5 / Eclipse / Fixed) — troubleshooting:
+- Luna M600 mid-drive (X2 / X2.5 / Eclipse) — full troubleshooting:
   https://electricbike.com/forum/forum/knowledge-base/motors-and-kits/m600/134392-m600-troubleshooting
-- Luna X2 / X2.5 — manual + troubleshooting:
-  https://electricbike.com/forum/knowledge-base/bikes-aa/146142-luna-x2-x2-5-manual
-- Luna X1 — advanced battery & power/wiring troubleshooting:
-  https://electricbike.com/forum/forum/knowledge-base/bikes-aa/138051-luna-x1-advanced-troubleshooting-battery-and-power-wiring
 - Sur-Ron Light Bee — electrical troubleshooting:
   https://electricbike.com/forum/forum/knowledge-base/surron/90003-sur-ron-light-bee-electrical-troubleshooting
-- BBSHD / BBS02 mid-drive — troubleshooting:
-  https://electricbike.com/forum/forum/knowledge-base/motors-and-kits/bbshd/39217-troubleshooting-the-bbshd-bbs02
-- Luna charger (Mini & Advanced) — how to adjust:
-  https://electricbike.com/forum/forum/knowledge-base/chargers/38871-how-to-adjust-the-luna-charger-mini-and-advanced
-
-## Owner's manuals (electricbike.com forum)
-
-- Talaria XXX / XXX Pro manual:
-  https://electricbike.com/forum/knowledge-base/talaria-dirtbike/164135-talaria-xxx-manual
-- Talaria MX5 Pro / MX4R / MX3 manual (also links assembly videos):
-  https://electricbike.com/forum/knowledge-base/talaria-dirtbike/161444-talaria-mx5-pro-mx4r-and-mx3-manual
-- Luna Fixed — e-bike manual:
+- Luna X2 / X2.5 — manual:
+  https://electricbike.com/forum/knowledge-base/bikes-aa/146142-luna-x2-x2-5-manual
+- Luna Fixed — manual:
   https://electricbike.com/forum/knowledge-base/bikes-aa/152149-luna-fixed-ebike-manual
-- Luna M600 Ludicrous V2 controller — documentation/manual:
-  https://electricbike.com/forum/forum/knowledge-base/motors-and-kits/m600/144851-luna-m600-ludicrous-v2-controller-documentation
 
-## Repair & how-to videos (YouTube — @lunacyclerepair)
+## Common parts pages (lunacycle.com)
 
-- General first-look diagnostic (ask customer to watch first ~3 min):
-  https://www.youtube.com/watch?v=PsJaToey2Tw
-- Wiring/main harness — trace, repair & replace:
-  https://www.youtube.com/watch?v=qyUFHGV1VT8
-- Display/harness pin check (E00-type display issues):
-  https://www.youtube.com/watch?v=LlRF5APGWfs
-- Change display settings / gear ratio (stock 17" wheel = 1:6.9, tire 17):
-  https://www.youtube.com/watch?v=Aj07S2gOdUk
-- Replace the motor controller:
-  https://www.youtube.com/watch?v=71J5yiGpDr8
-- How to remove the battery:
-  https://www.youtube.com/watch?v=tuB-QJiRC3o
-- NFC / RFID key-fob control box — install & replacement:
-  https://youtu.be/a_M601mtxDY
-- Program / pair the RFID key fob to the bike:
-  https://youtu.be/817nvYsZsyM
-- How to program the MX5:
-  https://www.youtube.com/watch?v=qAwS-GR3BfE
-- Belt inspection — connector & orange wire to check:
-  https://youtu.be/xekcnAGonE4?t=204
-- Loose/worn belt — replacement:
-  https://www.youtube.com/watch?v=iSHHaDe92l4
-- Bent rotor — straightening:
-  https://youtu.be/d0u1XwAUrqg
-- Bleed/"burp" the brakes:
-  https://youtu.be/bR5Kq6y4XmM
-- Fork lubrication:
-  https://youtu.be/wR7HcDe5WwI
-- Encoder calibration / motor "MATCH" (bogging / power issues):
-  https://www.youtube.com/watch?v=iq-T2ixbrTM
-- Remove the motor:
-  https://youtu.be/mYS3WYp-xVw
-- Sensor unplug/diagnostic sequence (throttle, brake, kickstand, tip sensors):
-  https://youtu.be/FiJ0hpHMp2I
-- Tire valve core / valve stem check (slow leak):
-  https://www.youtube.com/shorts/EwGdgyq6Lsw
-
-## Common parts & pages (lunacycle.com)
-
-- Custom parts order (pay for a specific part by dollar amount):
-  https://lunacycle.com/custom-parts-order/
-- Shipping & labor payments:
-  https://lunacycle.com/for-shipping-and-labor-payments/
-- Chain extension kit (for larger/17" sprockets):
-  https://lunacycle.com/chain-extension-kit-for-larger-sprockets/
-- Talaria XXX main harness:
-  https://lunacycle.com/talaria-xxx-main-harness/
-- Talaria MX4 / XXX throttle:
-  https://lunacycle.com/talaria-mx4-xxx-throttle/
-- Talaria XXX / Sting charger:
-  https://lunacycle.com/talaria-xxx-and-sting-charger/
-- Talaria XXX key-fob kit:
-  https://lunacycle.com/talaria-xxx-key-fob-kit/
-- Kool-Stop disc brake pads (Talaria):
-  https://lunacycle.com/kool-stop-disc-brake-pad-for-talaria/
-- Luna X2 / X1 pivot bolt set:
-  https://lunacycle.com/luna-x2-and-x1-pivot-bolt-set/
-- Returns policy page:
-  https://lunacycle.com/returns/
+- Custom parts order: https://lunacycle.com/custom-parts-order/
+- Shipping & labor payments: https://lunacycle.com/for-shipping-and-labor-payments/
+- Talaria XXX main harness: https://lunacycle.com/talaria-xxx-main-harness/
+- Talaria MX4 / XXX throttle: https://lunacycle.com/talaria-mx4-xxx-throttle/
+- Talaria XXX / Sting charger: https://lunacycle.com/talaria-xxx-and-sting-charger/
+- Kool-Stop disc brake pads (Talaria): https://lunacycle.com/kool-stop-disc-brake-pad-for-talaria/

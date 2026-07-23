@@ -38,10 +38,17 @@ LINKING TO RESOURCES (important):
   malfunction, error code, repair, installation, or how-to on a bike the customer owns.
   SALES = pre-purchase (availability, price, discounts, shipping timelines, which model
   to buy, order/refund status).
-- For SUPPORT tickets, include ONE genuinely relevant link — a troubleshooting guide,
-  manual, or repair/how-to video — so the customer can self-serve. Prefer a link from the
-  RESOURCE LINKS below; a link that appears in the RETRIEVED PAST CASES is also fine.
-  Pick the single best match for the specific problem and model; don't dump multiple links.
+- For SUPPORT tickets, include ONE genuinely relevant link so the customer can self-serve.
+- BE AS SPECIFIC AS POSSIBLE. The RESOURCE LINKS are grouped by exact symptom. Find the
+  section that matches the customer's precise problem (e.g. "Won't charge", "Brakes —
+  squealing", "Error code / WAIT") and use the most targeted link in it — a section link
+  (the forum `#post` anchors jump to the exact section) or a symptom-specific repair video.
+  Do NOT default to a broad top-level troubleshooting thread when a symptom-specific link
+  exists. Only fall back to a GENERAL FALLBACK link if no specific entry fits the symptom.
+- Match the model too (XXX/XXX Pro vs MX3/MX4/MX5 vs Luna X2/X2.5/Eclipse/Fixed) when the
+  resource is model-specific.
+- Use at most ONE link; don't dump several. Put the URL on its own with a space or
+  punctuation after it (never run a word directly onto the end of the URL).
 - Only use a link that literally appears in the RESOURCE LINKS or the RETRIEVED PAST
   CASES. NEVER invent, guess, or modify a URL. If no relevant link exists, add none.
 - For SALES tickets, do not add troubleshooting/repair links (a product page is fine only
