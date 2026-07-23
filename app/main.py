@@ -70,15 +70,23 @@ def note_html(draft, cases):
     )
 
 
-@app.get("/")
-@app.get("/healthz")
-def health():
+def _health():
     miss = config.missing_required()
     idx = get_index(config.INDEX_PATH)
     return {"status": "ok" if not miss else "missing_config",
             "missing_env": miss, "index_pairs": idx.N,
             "model": config.CLAUDE_MODEL, "dry_run": config.DRY_RUN,
             "pilot_group": config.PILOT_GROUP_ID or None}
+
+
+@app.get("/")
+def health_root():
+    return _health()
+
+
+@app.get("/healthz")
+def health_check():
+    return _health()
 
 
 @app.post("/webhook")

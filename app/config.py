@@ -28,6 +28,7 @@ NOTE_MARKER = os.getenv("NOTE_MARKER", "⁣[luna-ai-draft]")
 
 INDEX_PATH = os.getenv("INDEX_PATH", "data/qa_index.json.gz")
 POLICIES_PATH = os.getenv("POLICIES_PATH", "app/policies.md")
+RESOURCES_PATH = os.getenv("RESOURCES_PATH", "app/resources.md")
 
 
 def freshdesk_base():
